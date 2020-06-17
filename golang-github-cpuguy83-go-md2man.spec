@@ -29,7 +29,7 @@ manpages.
 Summary:        A golang registry for global request variables
 BuildArch:      noarch
 
-BuildRequires:  golang(gopkg.in/russross/blackfriday.v1)
+BuildRequires:  golang-ipath(gopkg.in/russross/blackfriday.v2)
 
 %description devel
 %{goipath} is a golang tool using blackfriday to process markdown into
