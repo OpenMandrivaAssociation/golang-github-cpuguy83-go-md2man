@@ -7,7 +7,7 @@
 %global goipath		github.com/cpuguy83/go-md2man
 %global goaltipaths	github.com/cpuguy83/go-md2man/v2
 %global forgeurl	https://github.com/cpuguy83/go-md2man
-Version:			2.0.3
+Version:			2.0.4
 
 %gometa
 
